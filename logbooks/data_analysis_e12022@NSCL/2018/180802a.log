@@ -1,0 +1,12 @@
+$@MID@$: 1
+Date: Thu, 02 Aug 2018 15:29:03 -0400
+Author: Kailong Wang
+Result Category: Notes
+Title: location of raw data
+Attachment: 
+Encoding: HTML
+========================================
+<ul>
+	<li>The raw data with &quot;.evt&quot; format are in the direction of&nbsp;/disk2/e12022/data/experiment/ at the computer with the IP&nbsp;address of 141.209.163.163</li>
+	<li>The raw data with &quot;.root&quot; format are in the&nbsp;direction of&nbsp;/disk2/e12022/data/RootData/ at the computer with the IP&nbsp;address of 141.209.163.163</li>
+</ul>
